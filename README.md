@@ -8,11 +8,3 @@
 [![mail](https://img.shields.io/badge/gmail-D14836)](mailto:joshomac505@gmail.com)
 [![resume](https://img.shields.io/badge/resume-%23#FFFF00.svg)](https://jmachado.ca/Joshua%20Machado%20Resume.pdf)
 [![jmachado.ca](https://img.shields.io/badge/website-jmachado.ca-black)](https://jmachado.ca)
-
-
-
-<!--END_SECTION:waka-->
------
-Credits: [sambhav2612](https://github.com/sambhav2612)
-
-Last Edited on: 10/05/2023
