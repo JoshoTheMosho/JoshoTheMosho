@@ -1,6 +1,6 @@
 ### Joshua Machado
 
-#### 3rd year Computer Science Student at the University of Victoria.
+#### 3rd year Computer Science Student at the University of Victoria, graduating December 2024.
 
 🏢 Prev **[@TradableBits](https://github.com/tradablebits)** as a Software Engineer Intern
 
