@@ -2,7 +2,7 @@
 
 #### 3rd year Computer Science Student at the University of Victoria.
 
-🏢 Currently working **[@TradableBits](https://github.com/tradablebits)** as a Software Engineer Intern
+🏢 Prev **[@TradableBits](https://github.com/tradablebits)** as a Software Engineer Intern
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg)](https://linkedin.com/in/josh-machado)
 [![mail](https://img.shields.io/badge/gmail-D14836)](mailto:joshomac505@gmail.com)
