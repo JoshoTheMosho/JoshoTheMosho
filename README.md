@@ -1,8 +1,15 @@
 ### Joshua Machado
 
-#### 3rd year Computer Science Student at the University of Victoria, graduating December 2024.
+#### 4th year Computer Science Student at the University of Victoria, graduating December 2024.
 
-🏢 Prev **[@TradableBits](https://github.com/tradablebits)** Software Engineer Intern, Prev **[@SAP](https://www.sap.com/canada/index.html)** Developer Intern
+🏢 Incoming **Test Infrastructure Intern**  
+[**Zoox**](https://zoox.com/)  
+
+🚀 Previous **Software Engineer Intern**  
+[**TradableBits**](https://github.com/tradablebits)  
+
+💻 Previous **Developer Intern**  
+[**SAP**](https://www.sap.com/canada/index.html)  
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg)](https://linkedin.com/in/josh-machado)
 [![mail](https://img.shields.io/badge/gmail-D14836)](mailto:joshomac505@gmail.com)
