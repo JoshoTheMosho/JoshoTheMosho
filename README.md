@@ -2,7 +2,7 @@
 
 #### 4th year Computer Science Student at the University of Victoria, graduating December 2024.
 
-🏢 Incoming **Test Infrastructure Intern**  
+🏢 Previous **Software Developer Engineer Intern**  
 [**@Zoox**](https://zoox.com/)  
 
 🚀 Previous **Software Engineer Intern**  
