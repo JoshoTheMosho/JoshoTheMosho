@@ -1,6 +1,6 @@
 ### Joshua Machado
 
-#### 4th year Computer Science Student at the University of Victoria, graduating December 2024.
+#### New Grad SWE [@Shopify](https://shopify.com)
 
 🏢 Previous **Software Developer Engineer Intern**  
 [**@Zoox**](https://zoox.com/)  
