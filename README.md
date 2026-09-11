@@ -1,6 +1,6 @@
 ### Joshua Machado
 
-#### New Grad SWE [@Shopify](https://shopify.com)
+#### SWE II [@Shopify](https://shopify.com)
 
 🏢 Previous **Software Developer Engineer Intern**  
 [**@Zoox**](https://zoox.com/)  
